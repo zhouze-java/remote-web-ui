@@ -1,0 +1,6 @@
+{
+  "name": "院外远程沙箱控制台",
+  "description": "在院外临时启动某医院前端，连通院内真实后端，用于远程查看与排查。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
